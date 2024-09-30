@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uwGd6WwUUpnU7flc0Lo89qS+GIp7gdTMj+fxxCLkPwQ=",
+  "Source": "EmployeeAndTaskManagementApi",
+  "BasePath": "_content/EmployeeAndTaskManagementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
